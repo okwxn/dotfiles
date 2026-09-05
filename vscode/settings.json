@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "editor.minimap.enabled": false,
+  "editor.rulers": [100],
+  "terminal.integrated.defaultProfile.osx": "zsh"
+}
