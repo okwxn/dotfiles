@@ -1,0 +1,9 @@
+[user]
+	email = ohhunkw@gmail.com
+	name = Ohhun Kwon
+[init]
+	defaultBranch = main
+[fetch]
+	prune = true
+[core]
+	editor = code --wait
