@@ -14,9 +14,6 @@ fi
 echo "==> Installing Homebrew packages"
 brew bundle --no-upgrade --file="$DOTFILES/Brewfile"
 
-echo "==> Creating config directories"
-mkdir -p "$HOME/.config"
-
 link() {
     local src="$1"
     local dst="$2"

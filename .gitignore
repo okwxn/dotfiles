@@ -8,3 +8,7 @@
 *.key
 
 ssh/config
+
+*.backup.*
+.mise-local.toml
+*.local
